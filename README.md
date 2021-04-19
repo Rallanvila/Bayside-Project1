@@ -1,8 +1,9 @@
 # Bayside-Project1
 
-##Tim,
+## Tim,
 
 The HTML/CSS are here. I copied the element you wanted me to edit from the link you provided.
 
-###Test Link:
-[https://rallanvila.github.io/Bayside-Project1/]
+### Test Link:
+
+[Here is the link to see they styling](https://rallanvila.github.io/Bayside-Project1/)
