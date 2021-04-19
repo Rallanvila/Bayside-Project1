@@ -1,0 +1,57 @@
+@font-face {
+	font-family: "Nexa";
+	src: "../fonts/Nexa Font/Fontfabric - Nexa.otf";
+}
+* {
+	font-family: "Nexa", sans-serif;
+}
+
+.entry-content {
+	width: 100vw;
+	height: 500px;
+	background: #00aeef;
+	font-family: "Nexa";
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-align: center;
+	align-items: center;
+	margin: 0 auto;
+}
+.entry-content form .post-password-form__message {
+	text-align: center;
+	font-size: 1.2rem;
+	line-height: 1.5rem;
+	width: 400px;
+	margin: 0 auto;
+}
+.entry-content form #pwbox-27327 {
+	text-align: center;
+	display: block;
+	width: 440px;
+	margin: 35px auto 15px;
+	height: 65px;
+	border-radius: 30px;
+	border: none;
+	font-size: 1.5rem;
+}
+.entry-content form #pwbox-27327:focus {
+	outline: none;
+}
+.entry-content form .submit {
+	width: 150px;
+	height: 30px;
+	border: none;
+	display: block;
+	font-size: 1.1rem;
+	letter-spacing: 2px;
+	border-radius: 17px;
+	text-align: center;
+	margin: 0 auto;
+	color: white;
+	background: #2a2a2a;
+	cursor: pointer;
+}
